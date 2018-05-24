@@ -1,12 +1,12 @@
 {
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
-	"font_size": 11,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"tabs_small": true,
-	"theme": "Afterglow.sublime-theme",
 	"status_bar_brighter": true,
-	"tabs_padding_medium": true
+	"tabs_padding_medium": true,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme"
 }
