@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 11,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Afterglow-orange.sublime-theme"
+	"theme": "Afterglow.sublime-theme"
 }
