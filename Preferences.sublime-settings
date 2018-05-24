@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"color_scheme": "Packages/Gutter Color/Afterglow-monokai.gcfix.tmTheme",
 	"font_face": "Monaco",
 	"font_size": 10,
 	"ignored_packages":
@@ -7,7 +7,7 @@
 		"Vintage"
 	],
 	"status_bar_brighter": true,
-	"tabs_padding_medium": true,
 	"tabs_medium": true,
+	"tabs_padding_medium": true,
 	"theme": "Afterglow.sublime-theme"
 }
