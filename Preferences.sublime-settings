@@ -1,6 +1,11 @@
 {
 	"color_scheme": "Packages/Gutter Color/Afterglow-monokai.gcfix.tmTheme",
-	"font_face": "Monaco",
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"dist"
+	],
+	"font_face": "Consolas",
 	"font_size": 10,
 	"ignored_packages":
 	[
